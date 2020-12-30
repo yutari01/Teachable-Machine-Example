@@ -14,7 +14,7 @@ G1/G2/G3/G4/G5/G6/G7/G8/G9/G10/G11 (11個の手ポーズ)
 S1のデータを活用して11個の手ポーズ（各30枚のpng）を学習しました。
 
 ## 学習結果
-![image](https://media.discordapp.net/attachments/793673760242008124/793674287528542248/sample.png?width=950&height=356)
+![image](https://media.discordapp.net/attachments/793673760242008124/793674287528542248/sample.png?width=950&height=356)  
 (左:学習した写真S1/右:確認する写真S3)  
 
 S3の各1枚目の写真を入力し、類似度を確認しました。  
